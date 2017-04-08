@@ -1,0 +1,17 @@
+// styles for browser reset
+
+body {
+  background: $c-light-grey;
+  color: $c-text;
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  align-self: center;
+}
